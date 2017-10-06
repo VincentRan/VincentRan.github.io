@@ -24,9 +24,9 @@ Project Hastur is a platform for archaeologists from all over the world to share
 
 <p>I designed this website in a relatively simple way but with rich ideas. It's designed to be easy for users. On the other hand, users can interact with each other through multiple medias such as pictures, text and videos.</p> 
 
-<p>The most challenging part is getting started, how to create a GitHub page? It took me a while to figure it out how to create this GitHub page. Some tutorials on the Internet are either too old or assuming readers having some knowledge of this website or coding in general. Also, considering the fact that this is just a prototype of a unfinished project, there is only little material published related to my project. So the webpage I designed might look a little dry. To solve these problems, more practice needs to be conducted.</p>
+<p>The most challenging part is getting started, how to create a GitHub page? It took me a while to figure it out how to create this GitHub page. Some tutorials on the Internet are either too old or assuming readers having some knowledge of this website or coding in general. Also, considering the fact that this is just a prototype of a unfinished project, there is only little material published related to my project. So the webpage I designed might look a little dry. To solve these problems, more practice needs to be conducted and more materials need to be posted through this semester. </p>
 
-<p>What unique about this subject is it provides a platform for archaeologists to share their non-academical moment. It's like a socia media club for archaeologists. However, ethical issues need to be considered, what can or cannot be posted here? I think it depends on individual situation.</p>
+<p>What unique about this project is it provides a platform for archaeologists to share their non-academical moment. It's like a socia media club for archaeologists. However, ethical issues need to be considered, what can or cannot be posted here? I think it depends on individual situation. One thing for sure is before posting anything related to archaeology in public, one must take ethical issues into consideration.</p>
 </div>
 
 ### Contact Information
