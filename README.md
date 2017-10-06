@@ -4,7 +4,7 @@
 
 Project Vastur is a platform for metal music fans from all over the world to share and write album reviews. It was launched by Vincent Ran on Oct. 05 2017, he is a then growing online author of album reviews via multiple Chinese social media. This project was named after a fictional figure called "Hastur", which was pupularized through Cthulhu Mythos. In other words, the name "Vastur" is combination of "Hastur" and "Vincent". 
 
-<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/22228448_1960321387559477_5859886095551657216_n.jpg>
+<img src="https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/22158820_135586610403332_8997772493016006656_n.jpg>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
