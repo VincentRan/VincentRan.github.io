@@ -18,4 +18,4 @@ Project Hastur is a platform for archaeologists from all over the world to share
 <p>What unique about this subject is it provides a platform for archaeologists to share their non-academical moment. It's like a socia media club for archaeologists. However, ethical issues need to be considered, what can or cannot be posted here? I think it depends on individual situation.</p>
 
 ### Contact Information
-<p><a herf="https://www.instagram.com/vincent.ran/?hl=en"Instagram</a>.
+<p><a herf="https://www.instagram.com/vincent.ran/?hl=en"Instagram</a></p>
