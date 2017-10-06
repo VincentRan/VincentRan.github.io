@@ -8,6 +8,7 @@ Project Hastur is a platform for archaeologists from all over the world to share
 <p>This photograph was shot by Vincent himself in August 2017 at Drumheller, Cargary, AB. 
 </div>
 
+<div class="main">
 <h2>Fast Start</h2>
 <ul>
 <li>Log In</li>
@@ -26,6 +27,7 @@ Project Hastur is a platform for archaeologists from all over the world to share
 <p>The most challenging part is getting started, how to create a GitHub page? It took me a while to figure it out how to create this GitHub page. Some tutorials on the Internet are either too old or assuming readers having some knowledge of this website or coding in general. Also, considering the fact that this is just a prototype of a unfinished project, there is only little material published related to my project. So the webpage I designed might look a little dry. To solve these problems, more practice needs to be conducted.</p>
 
 <p>What unique about this subject is it provides a platform for archaeologists to share their non-academical moment. It's like a socia media club for archaeologists. However, ethical issues need to be considered, what can or cannot be posted here? I think it depends on individual situation.</p>
+</div>
 
 ### Contact Information
 <p>Designer <a href="https://www.instagram.com/vincent.ran/?hl=en">Instagram</a><a href="https://twitter.com/VincentVastur">Twitter</a></p>
