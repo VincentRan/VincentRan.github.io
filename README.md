@@ -9,3 +9,5 @@ Project Vastur is a platform for metal music fans from all over the world to sha
 <p>This logo you are seeing was designed by an individual who refused to reveal his real name. He only refers himself as 青桑. This logo was designed on Sep. 5th 2015 when Vincent asked 青桑 for logo designing.</p>
 
 ### Previous Reviews
+<p>Previous reviews published on a Chinese socia website as blogs.</p> 
+<p>Over a hundred album reviews were written by Vincent since late 2014. However, all these reviews were written in English. Translation is appreciate. Anyone would like to do so please feel free to contact Vincent vr777@foxmail.com</p>
