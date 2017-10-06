@@ -1,5 +1,5 @@
 <h1>Project Vastur</h1>
-
+<div class="container">
 ## Welcome to Project Hastur
 
 Project Hastur is a platform for archaeologists from all over the world to share daily-based posts and blogs.This project was named after a fictional figure called "Hastur", which was pupularized through Cthulhu Mythos.
@@ -27,3 +27,4 @@ Project Hastur is a platform for archaeologists from all over the world to share
 
 ### Contact Information
 <p>Designer <a href="https://www.instagram.com/vincent.ran/?hl=en">Instagram</a><a href="https://twitter.com/VincentVastur">Twitter</a></p>
+</div>
